@@ -1,0 +1,658 @@
+@media (min-width: 320px) and (max-width: 1400px) {
+
+    .hero__thumb {
+        margin-right: -32px;
+        margin-left: -15px;
+    }
+
+    .common-content h3 {
+        font-size: 40px;
+        margin-bottom: 25px;
+    }
+
+
+    .hero__area::after {
+        bottom: -27px;
+        height: 230px;
+    }
+
+
+    .logo__area {
+        padding: 20px 0px;
+        position: relative;
+        z-index: 1;
+    }
+
+
+    .about__card {
+        padding: 0 36px;
+    }
+
+    .hexagon__wrapper {
+        right: 40px;
+    }
+
+    .single__hexagon__row.second {
+        margin-right: -73px;
+    }
+
+    .single__hexagon__row.first {
+        margin-right: -45px;
+    }
+
+    .hexagon {
+        height: 235px;
+        width: 265px;
+        margin-bottom: 11px;
+    }
+
+    .hexagon h4 {
+        font-size: 20px;
+    }
+
+    .single__hexagon__row.third .hexagon {
+        margin-right: -35px;
+    }
+
+    .single__hexagon__row.third {
+        padding-top: 153px;
+    }
+
+    .single__hexagon__row.four {
+        margin-left: -36px;
+    }
+
+    .hexagon.small {
+        height: 142px;
+        width: 159px;
+    }
+
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 1200px) {
+
+    body {
+        font-size: 16px;
+    }
+
+    .hero__thumb {
+        margin-right: -20px;
+        margin-left: -5px;
+    }
+
+    .common-content h3 {
+        font-size: 34px;
+        margin-bottom: 24px;
+    }
+
+
+    .hero__area::after {
+        bottom: -15px;
+        height: 180px;
+    }
+
+
+
+    .section-padding {
+        padding-top: 90px;
+    }
+
+    .eco__thumb {
+        margin-top: 54px;
+    }
+
+    .common-content h4 {
+        font-size: 29px;
+        margin-bottom: 28px;
+    }
+
+    .about__card {
+        padding: 0 10px;
+    }
+
+
+
+    .single__tax__card {
+        padding: 16px;
+    }
+
+    .tax__card__content p {
+        font-size: 14px;
+    }
+
+    .tax__card__content h5 {
+        font-size: 17px;
+        margin-bottom: 16px;
+    }
+
+    .tax__card__icon {
+        text-align: center;
+        margin-bottom: 22px;
+        padding-top: 5px;
+    }
+
+    .footer__social a {
+        margin: 0 7px;
+        margin-top: 10px;
+        max-width: 35px;
+    }
+
+    .copyright p {
+        font-size: 14px;
+        padding: 30px 0;
+    }
+
+    .header__navigation ul li a {
+        font-size: 17px;
+    }
+
+    .hexagon.small {
+        height: 122px;
+        width: 139px;
+    }
+
+    .hexagon {
+        height: 215px;
+        width: 245px;
+        margin-bottom: 11px;
+    }
+
+    .hexagon__wrapper {
+        right: 6px;
+    }
+
+    .single__hexagon__row.second {
+        margin-right: -38px;
+    }
+
+
+    .single__hexagon__row.first {
+        margin-right: -10px;
+    }
+
+
+    .single__hexagon__row.second, .single__hexagon__row.five {
+        padding-top: 19px;
+    }
+
+    .single__hexagon__row.third {
+        padding-top: 133px;
+    }
+
+    .single__hexagon__row.third .hexagon {
+        margin-right: -47px;
+    }
+
+    .single__hexagon__row.four {
+        margin-left: 0;
+    }
+
+    .single__hexagon__row.five {
+        margin-right: -52px;
+    }
+
+
+
+}
+
+@media (min-width: 320px) and (max-width:991px) {
+
+
+
+    .header {
+        padding: 30px 0;
+    }
+
+    .common-content h3 {
+        font-size: 27px;
+        margin-bottom: 22px;
+    }
+
+
+    .hero__area {
+        padding: 24px 0;
+        padding-bottom: 57px;
+    }
+
+    .hero__thumb {
+        margin-right: -18px;
+        margin-left: -27px;
+    }
+
+    .hero__area::after {
+        bottom: -18px;
+        height: 180px;
+    }
+
+    body {
+        font-size: 15px;
+    }
+
+
+
+    p {
+        margin-bottom: 17px;
+    }
+
+
+    .common-content h4 {
+        font-size: 24px;
+        margin-bottom: 24px;
+    }
+
+    .section-padding {
+        padding-top: 73px;
+    }
+
+    .about__thumb {
+        padding: 0 20px;
+        margin-bottom: 16px;
+    }
+
+    .about__btn a {
+        font-size: 13px;
+        height: 38px;
+        width: 138px;
+        padding-top: 3px;
+    }
+
+    .about__btn {
+        padding-top: 23px;
+    }
+
+    .single__archive__card p {
+        font-size: 17px;
+    }
+
+    .archive__thumb {
+        margin-bottom: 13px;
+    }
+
+
+
+    .footer__social a {
+        margin: 0 6px;
+        margin-top: 10px;
+        max-width: 31px;
+    }
+
+
+    .footer__text p br {
+        display: none;
+    }
+
+
+    .hexagon h4 {
+        font-size: 16px;
+    }
+
+    .hexagon {
+        height: 165px;
+        width: 175px;
+        margin-bottom: 4px;
+    }
+
+    .hexagon.small {
+        height: 82px;
+        width: 99px;
+    }
+
+    .single__hexagon__row.second, .single__hexagon__row.five {
+        padding-top: 3px;
+    }
+
+    .single__hexagon__row.four .hx-2 {
+        margin-top: -8px;
+    }
+
+    .single__hexagon__row.third {
+        padding-top: 88px;
+    }
+
+    .single__hexagon__row.five {
+        margin-right: -36px;
+    }
+
+    .single__hexagon__row.third .hexagon {
+        margin-right: -37px;
+    }
+
+
+
+    .single__hexagon__row.first .hexagon.small {
+        height: 82px;
+        width: 99px;
+        margin-right: -10px;
+    }
+
+    .single__hexagon__row.second {
+        margin-right: -41px;
+    }
+
+
+
+
+    .single__hexagon__row.four .hexagon.small {
+        margin-left: 22px;
+        margin-bottom: 13px;
+    }
+
+
+    .hexagon__wrapper {
+        right: 20px;
+    }
+
+    .modal-dialog {
+        max-width: 626px;
+    }
+
+    .modal__content {
+        padding: 8px 20px;
+        padding-top: 25px;
+    }
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+
+
+
+    .archive__cards__wrapper .col-md-4 {
+        width: 33.3%;
+    }
+
+    .single__archive__card p {
+        font-size: 16px;
+    }
+
+    .single__archive__card {
+        margin-top: 19px;
+    }
+
+
+    .tax-title h4 {
+        font-size: 17px;
+        margin-bottom: 16px;
+    }
+
+
+    .copyright p {
+        font-size: 13px;
+        padding: 26px 0;
+    }
+
+    .menu-open {
+        display: block;
+    }
+
+    .header__navigation {
+        display: none;
+    }
+
+    .dashboard__btn{
+        display: none;
+    }
+
+    .header__socials{
+        display: none;
+    }
+
+
+    .common-content.hero__content h3 {
+        margin-right: 0;
+    }
+
+    .hero__area .row {
+        flex-direction: column-reverse;
+    }
+
+    .hero__thumb {
+        margin: 0;
+        padding: 0 33px;
+        margin-bottom: 29px;
+    }
+
+    .hero__area::after {
+        bottom: -2px;
+        height: 105px;
+        display: none;
+    }
+
+    .hero__area {
+        padding: 26px 0;
+        padding-bottom: 73px;
+    }
+.logo__area .col-sm-3 { 
+	padding: 0 8px;
+}
+    .ecosysytem__section .row {
+        flex-direction: column-reverse;
+    }
+
+    .eco__thumb {
+        margin: 0;
+        padding: 0 44px;
+        margin-bottom: 30px;
+    }
+
+    .about__thumb {
+        padding: 0 40px;
+        margin-bottom: 20px;
+    }
+
+    .about__card {
+        padding: 10px 10px;
+        margin-bottom: 35px;
+    }
+
+
+    .hexagon__wrapper .col-md-3 {
+        width: 33.3%;
+    }
+
+    .hexagon__wrapper .row {
+        justify-content: center;
+    }
+
+
+    .single__hexagon__row.third .hexagon {
+        margin-right: 13px;
+    }
+
+    .single__hexagon__row.four {
+        margin-left: 79px;
+        margin-top: -81px;
+    }
+
+
+
+    .single__hexagon__row.five {
+        margin-right: 85px;
+        margin-top: -89px;
+    }
+
+    .single__hexagon__row.first {
+        margin-right: -14px;
+    }
+
+    .hexagon__wrapper {
+        right: 15px;
+    }
+
+
+    .modal-dialog {
+        max-width: 569px;
+    }
+
+    .modal__content {
+        padding: 6px 15px;
+        padding-top: 20px;
+    }
+
+    .modal-content .btn-close {
+        font-size: 22px;
+    }
+
+    .modal__content.common-content ul {
+        padding: 10px 20px;
+    }
+
+}
+
+
+@media (min-width: 320px) and (max-width: 575px) {
+
+    .modal-dialog {
+        max-width: 100%;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .modal__content {
+        padding: 5px 9px;
+        padding-top: 17px;
+    }
+
+    .modal__content.common-content ul {
+        padding: 6px 17px;
+    }
+
+    .copyright p {
+        font-size: 12px;
+        padding: 22px 0;
+    }
+
+    .header {
+        padding: 26px 4px;
+    }
+
+    .hero__thumb {
+        margin: 0 auto;
+        padding: 0 25px;
+        margin-bottom: 27px;
+        max-width: 365px;
+    }
+
+    .common-content h3 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .logo__area {
+        padding: 19px 0px;
+        padding-bottom: 4px;
+    }
+
+    .single__logo {
+        margin-bottom: 14px;
+    }
+
+    .hero__area::after {
+        bottom: 1px;
+        height: 75px;
+    }
+    .logo__area .row{
+        flex-wrap: wrap
+    }
+.logo__area .col-sm-3 {
+	width: 50%;
+	flex: 0 0  auto; 
+    padding: 0 20px
+}
+    .eco__thumb {
+        margin: 0 auto;
+        padding: 0 30px;
+        margin-bottom: 30px;
+        max-width: 380px;
+    }
+
+    .about__thumb {
+        margin: 0 auto;
+        padding: 0 30px;
+        margin-bottom: 20px;
+        max-width: 350px;
+    }
+
+    .footer__social a {
+        margin: 0 5px;
+        margin-top: 10px;
+        max-width: 28px;
+    }
+
+
+    .taxes__wrapper {
+        padding-bottom: 30px;
+    }
+
+    .archive__cards__wrapper .col-md-4 {
+        width: 50%;
+        padding: 0 18px;
+    }
+
+
+    .hexagon__wrapper .col-md-3 {
+        width: 50%;
+    }
+
+
+    .hexagon__wrapper {
+        right: 30px;
+        max-width: 345px;
+        margin: 0 auto;
+    }
+
+    .single__hexagon__row.third {
+        padding-top: 0;
+        margin-top: -86px;
+        margin-left: 94px;
+    }
+
+    .single__hexagon__row.five {
+        margin-right: -23px;
+        margin-top: -5px;
+    }
+
+
+    .single__hexagon__row.second {
+        margin-right: -23px;
+    }
+
+    .single__hexagon__row.second, .single__hexagon__row.five {
+        padding-top: 0;
+    }
+
+    .single__hexagon__row.first .hexagon.small {
+        height: 75px;
+        width: 92px;
+        margin-top: 3px;
+    }
+
+    .single__hexagon__row.third .hexagon {
+        margin-right: 1px;
+    }
+
+    .single__hexagon__row.four {
+        margin-left: -41px;
+        margin-top: -244px;
+        flex-direction: column-reverse;
+    }
+
+
+    .single__hexagon__row.four .hexagon.small {
+        margin-left: 22px;
+        margin: 0 auto;
+        margin-right: 69px !important;
+    }
+
+
+
+
+
+
+}
